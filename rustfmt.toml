@@ -1,0 +1,7 @@
+# comment_width = 100
+# wrap_comments = true
+# hard_tabs = false
+# newline_style = "Unix"
+# format_strings = true
+# normalize_comments = true
+# merge_imports = true
